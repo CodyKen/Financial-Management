@@ -1,6 +1,6 @@
 # Financial Management
 
-Investment Reports for project in FIN2010 Financial Management 2023 Spring.
+Investment Report for project in FIN2010 Financial Management 2023 Spring.
 This is a group project.
 
 Academic Code:
