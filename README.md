@@ -5,4 +5,4 @@ This is a group project.
 
 Academic Code:
 
-All projects were uploaded to VeriGuide for plagiarism detection. Copying is strictly prohibited and may lead to a F once detected.
+The project was uploaded to VeriGuide for plagiarism detection. Copying is strictly prohibited and may lead to a F once detected.
